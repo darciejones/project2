@@ -8,7 +8,7 @@
     "google-distance-matrix": "^1.1.1",
     "mysql2": "^1.6.5",
     "npm": "^6.4.1",
-    "sequelize": "^4.44.3"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {},
   "scripts": {
